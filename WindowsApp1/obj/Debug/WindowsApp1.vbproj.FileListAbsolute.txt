@@ -10,3 +10,11 @@ C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbpro
 C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
 C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\kizik\source\repos\calculator\WindowsApp1\obj\Debug\WindowsApp1.pdb

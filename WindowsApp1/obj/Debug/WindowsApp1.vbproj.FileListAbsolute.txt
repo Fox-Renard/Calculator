@@ -10,4 +10,3 @@ C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbpro
 C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
 C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
 C:\Users\雅仁\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
-

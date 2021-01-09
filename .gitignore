@@ -1,4 +1,2 @@
 WindowsApp1/WindowsApp1.vbproj
-WindowsApp1/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
-WindowsApp1/obj/Debug/WindowsApp1.vbprojAssemblyReference.cache
-
+WindowsApp1/obj/Debug/*
